@@ -47,7 +47,7 @@
   "editor.fontWeight": "bold",
   "apc.stylesheet": {
     ".xterm-rows": "background-image: url('')",
-    ".margin::after": "z-index: 1; content: ''; top: -13rem; left: 86.7rem; width: 100%;position: absolute; transform: scale(0.4); width: 20rem; height: 41.5rem; background: url('https://static.wikia.nocookie.net/jjba/images/e/e5/The_world_c2532.png/revision/latest/scale-to-width/360?cb=20170423132439&path-prefix=pt-br')",
+    ".margin::after": "z-index: 1; content: ''; top: -17rem; left: 70.7rem; width: 100%;position: absolute; transform: scale(0.4); width: 45rem; height: 51.5rem; background: url('https://static.wikia.nocookie.net/animeverso/images/8/88/1693536729724.png/revision/latest?cb=20230901025529&path-prefix=pt-br')",
     ".title-label": "padding: 50px",
     ".title-label > h2": "display: none",
     ".title-label::after": "content: 'ラファエル'; position: absolute; width: 100px; height: 100px; color: orange; left: 6px; top: -2px; font-weight: bold",
